@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  pool: 5
+  host: localhost
+  timeout: 5000
+  database: restaurant_development
+  username: postgres
+  password: arth
